@@ -21,11 +21,11 @@
 - `646-663-5419` > Confirmed by mschf related website (Dark mode toaster)
 - `917-500-3044` > Confirmed by mschf related website (Jesus Shoes)
 - `917-456-7890` > Confirmed by mschf related website (Text me box in Bull and Moon)
-- `917-905-4061` > (Real? Texted me the start of zuckwatch and has been replying…)
+- `917-905-4061` > Real? Texted me the start of zuckwatch and has been replying…
 - `917-341-0570` > - FAKE AND A TROLL - L
-- `917-983-2343` > (have been receiving drops since october)
-- `917 979-8797` >
-- `917-970-9251` > (Found on linked in “https://www.linkedin.com/posts/benmrosen_weekly-reminder-that-were-still-giving-everyone-activity-6556953345519599616-87Nm” mschf will supposedly pay you on venmo… doesn’t seem to be active…)
+- `917-983-2343` > Have been receiving drops since october
+- `917 979-8797`
+- `917-970-9251` > Found on [linkedin](https://www.linkedin.com/posts/benmrosen_weekly-reminder-that-were-still-giving-everyone-activity-6556953345519599616-87Nm).
 
 ## Confirmed by Ben:
 - Look at Past Drops to find clues to Password.
