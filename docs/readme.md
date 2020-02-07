@@ -50,12 +50,9 @@
 - [A hint?](https://curvy.ai/wnghero)
 
 ## Ideas from Subreddit:
-- Strong assumption that the password submission does nothing per the JS code-
-
-- Could be a url path that unlocks something-
-
+- Strong assumption that the password submission does nothing per the JS code
+- Could be a url path that unlocks something
 - Binary code in image? (Original facebook page had this as well… not sure if same) Don't think it's relevant though due to subtle differences in color from original image (left) and the newly added zuckwatch logo (right).
-
 
 ## Observations concerning Watergate
 - “Deep throat” = name of the Watergate “whistleblower”
@@ -73,7 +70,7 @@
 - “Woodward claimed that he would signal to "Deep Throat" that he desired a meeting by moving a flowerpot with a red flag on the balcony of his apartment. When Deep Throat wanted a meeting he would make special marks on page 20 of Woodward's copy of The New York Times; he would circle the page number and draw clock hands to indicate the hour. They often met "on the bottom level of an underground garage just over the Key Bridge in Rosslyn", at 2:00 a.m. The garage is located at 1401 Wilson Boulevard and has a historical marker that was erected in 2011. In 2014, the garage was scheduled to be demolished, though the county decided to save the historical marker, and the landowner promised to design a memorial commemorating the Watergate scandal. As of 2017, the garage had not been demolished.” Wikipedia watergate page
 - Do any of the number announcements work with the codes that these two used to communicate?
 
-# Random Observations:
+## Random Observations:
 - The ClickSwipe Privacy Policy page was offline as of 9AM PST Monday. It came back online around 11AM PST.
 - The Privacy Policy contains a surprising amount of detail about tracking cookies and Adobe Flash cookies.
 - Adobe Flash Cookies are stored on macs at this location: ~/Library/Preferences/Macromedia/Flash Player/#SharedObjects/<some random string>/
@@ -122,7 +119,6 @@
 - (pp: 395 Wythe Ave, Brooklyn, NY 11249, Linkedin: 51 Bergen Street, Brooklyn, NY 11201, US)T
 - I(who?) got a text from ben yesterday, but it was a screenshot of text instead of a written text message(and what did it say?)
 
-
 ## Technical details (probably irrelevant):
 - Main URL: https://zuckwatch.com/
 - URL passwords are sent to: https://k1ozwahixa.execute-api.us-east-1.amazonaws.com/dev/password
@@ -149,6 +145,7 @@
 Registered on 21 January, 2020 on Namecheap
 Uses Cloudflare
 ```
+
 ## MSCHF projects
 - @WorstFastAgency (2014) > Pay $1 for advice from Gabe on Twitter, received after 12 hours
 - KNEEOFFENDERS.COM (2014) > Something to do with planes?
