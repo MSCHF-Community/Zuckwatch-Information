@@ -52,19 +52,19 @@
 ## Ideas from Subreddit:
 - Strong assumption that the password submission does nothing per the JS code
 - Could be a url path that unlocks something
-- Binary code in image? (Original facebook page had this as well… not sure if same) Don't think it's relevant though due to subtle differences in color from original image (left) and the newly added zuckwatch logo (right).
+- Binary code in image? (Original facebook page had this as well… not sure if same) Don't think it's relevant though due to subtle differences in color from original image and the newly added zuckwatch logo.
 
 ## Observations concerning Watergate
 - “Deep throat” = name of the Watergate “whistleblower”
 - Could be a clue
 - Past ‘drops’ - drops of water?
-- Notable watergate participants/bystanders:
--  Martha Mitchell, wife of a prominent politician who was *kept locked in silence* (clue anyone?)
-- Richard Nixon (of course)
-- Roger Stone = Consultant for Trump and Nixon, subpoenaed to testify against Nixon in Watergate
-- Frank Wills = Security guard who discovered that the locks had been tampered with
-- The White House Plumbers, sometimes simply called the Plumber
-- Jean-Louis Palladin -- chef charged with revitalizing the Watergate Hotel with his restaurant Jean-Louis at the Watergate. Story here describes the space as a ‘windowless room’.
+  - Notable watergate participants/bystanders:
+  -  Martha Mitchell, wife of a prominent politician who was *kept locked in silence* (clue anyone?)
+  - Richard Nixon (of course)
+  - Roger Stone = Consultant for Trump and Nixon, subpoenaed to testify against Nixon in Watergate
+  - Frank Wills = Security guard who discovered that the locks had been tampered with
+  - The White House Plumbers, sometimes simply called the Plumber
+  - Jean-Louis Palladin -- chef charged with revitalizing the Watergate Hotel with his restaurant Jean-Louis at the Watergate. Story here describes the space as a ‘windowless room’.
 - Texted this to Ben to which he said “He sounds very interesting”
 - [This article](https://www.nytimes.com/1973/08/06/archives/subpoena-for-nixon-involves-historical-precedents-both-sides-are.html) references Jeremy Bentham (one who posited the panopticon) regarding the subpoena of Nixon, probably nothing
 - “Woodward claimed that he would signal to "Deep Throat" that he desired a meeting by moving a flowerpot with a red flag on the balcony of his apartment. When Deep Throat wanted a meeting he would make special marks on page 20 of Woodward's copy of The New York Times; he would circle the page number and draw clock hands to indicate the hour. They often met "on the bottom level of an underground garage just over the Key Bridge in Rosslyn", at 2:00 a.m. The garage is located at 1401 Wilson Boulevard and has a historical marker that was erected in 2011. In 2014, the garage was scheduled to be demolished, though the county decided to save the historical marker, and the landowner promised to design a memorial commemorating the Watergate scandal. As of 2017, the garage had not been demolished.” Wikipedia watergate page
@@ -79,20 +79,19 @@
 - The highest ‘level’ on the SMS line we’ve seen someone get is level 3.
 - Gabriel (CEO) just tweeted about Level 7.
 - He followed up this tweet with another tweet including the hashtag
-- Gabriel has deleted his twitter? It’s back
+- Gabriel has deleted his twitter? (It’s back)
 - Multiple gabe tweets including “windowless rooms” presumed to be cells
 - It is Aquarius season, Facebook's sign is Aquarius in the Bull and Moon app produced by MSCHF
 - Zuckerberg’s old password that he was hacked with is ‘dadada’
 - Clickswipe was removed from mschf.xyz at the time of the drop
 - It’s back
-- The “XXXXXXXXXXXXXXXXXXX” thing is “restricted”
+- The “XXXXXXXXXXXXXXXXXXX” thing is “restricted” (It's the blue donkey)
 - Ben said that we need to dig deeper than the restricted one
-- The restricted project here was The Blue Donkey - The Blue Donkey
 - Blue donkey is the democratic symbol
 - The restricted file was released on Nov. 26, 2019
 - Is that date important?
 - Gabriel (CEO) tweeted (@Gabriel_Whaley now deleted undeleted) ‘windowless rooms’ - could be a reference to this tweet from Hillary Clinton? (this has been partially confirmed to be about prison cells)
-- Hillary Clinton on Twitter: "Because I have a life you can't make up: as a young lawyer I worked on the Watergate impeachment inquiry. One of my jobs was to sit alone in a windowless room and listen very carefully to tapes of President Nixon's phone calls. #tbt… https://t.co/MYjRTyEiaQ"
+- [Hillary Clinton on Twitter](https://t.co/MYjRTyEiaQ): "Because I have a life you can't make up: as a young lawyer I worked on the Watergate impeachment inquiry. One of my jobs was to sit alone in a windowless room and listen very carefully to tapes of President Nixon's phone calls. #tbt…"
 - Windowless rooms could refer to server rooms or VR headsets (Oculus owned by FB)
 - Gabriel Whaley tweeted at Mark Zuck about data privacy day (the day zuckwatch was released)
 - Maybe a connection to the number 5
@@ -120,10 +119,10 @@
 - I(who?) got a text from ben yesterday, but it was a screenshot of text instead of a written text message(and what did it say?)
 
 ## Technical details (probably irrelevant):
-- Main URL: https://zuckwatch.com/
-- URL passwords are sent to: https://k1ozwahixa.execute-api.us-east-1.amazonaws.com/dev/password
-- Method: POST
-- Data: {"password":"<your password>"}
+- Main URL: `https://zuckwatch.com/`
+- URL passwords are sent to: `https://k1ozwahixa.execute-api.us-east-1.amazonaws.com/dev/password`
+- Method: `POST`
+- Data: `{"password":"<your password>"}`
 - Incorrect passwords result in a 400 Bad Request status, response content length of 0;
 - They’re using Amazon’s DynamoDB
 - DynamoDB is doing UpdateTable action, does not seem to be actually checking the password.
@@ -140,11 +139,6 @@
 }
 ```
 - However that shouldn’t mean much, as it seems to be a standard DynamoDB response; example.
-- From WHOIS
-```
-Registered on 21 January, 2020 on Namecheap
-Uses Cloudflare
-```
 
 ## MSCHF projects
 - @WorstFastAgency (2014) > Pay $1 for advice from Gabe on Twitter, received after 12 hours
